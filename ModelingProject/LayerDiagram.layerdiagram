@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="04e111e5-ea36-4b88-8fe1-c26711b2b177" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="8f918dff-8cc0-4042-a2fe-2dadabea3d95" name="PRESENTATION LAYER">
+      <childLayers>
+        <layer Id="e5c96e8d-aa8a-4b50-9367-db2ce14c7c4d" name="UI Components" />
+      </childLayers>
+    </layer>
+    <layer Id="4c298001-2c4b-44b7-963d-fcf3e64580fb" name="Presentation Logic Components" />
+  </layers>
+</layerModel>

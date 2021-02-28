@@ -1,0 +1,57 @@
+D:\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+D:\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\PresentationLayer\PresentationLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer_MarkupCompile.cache
+D:\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.g.resources
+D:\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.Properties.Resources.resources
+D:\PresentationLayer\PresentationLayer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PresentationLayer\PresentationLayer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.exe
+D:\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.pdb
+D:\PresentationLayer\PresentationLayer\obj\x86\Debug\MainWindow.baml
+D:\PresentationLayer\PresentationLayer\obj\x86\Debug\MainWindow.g.cs
+D:\PresentationLayer\PresentationLayer\obj\x86\Debug\App.g.cs
+D:\CBS_LESSONS\Architecture OOP\CBS_Architecture_Lessons\CBS_Architecture_Lessons\003 Проектирование слоя представления\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.exe
+D:\CBS_LESSONS\Architecture OOP\CBS_Architecture_Lessons\CBS_Architecture_Lessons\003 Проектирование слоя представления\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.pdb
+D:\CBS_LESSONS\Architecture OOP\CBS_Architecture_Lessons\CBS_Architecture_Lessons\003 Проектирование слоя представления\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+D:\CBS_LESSONS\Architecture OOP\CBS_Architecture_Lessons\CBS_Architecture_Lessons\003 Проектирование слоя представления\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\CBS_LESSONS\Architecture OOP\CBS_Architecture_Lessons\CBS_Architecture_Lessons\003 Проектирование слоя представления\PresentationLayer\PresentationLayer\obj\x86\Debug\MainWindow.baml
+D:\CBS_LESSONS\Architecture OOP\CBS_Architecture_Lessons\CBS_Architecture_Lessons\003 Проектирование слоя представления\PresentationLayer\PresentationLayer\obj\x86\Debug\MainWindow.g.cs
+D:\CBS_LESSONS\Architecture OOP\CBS_Architecture_Lessons\CBS_Architecture_Lessons\003 Проектирование слоя представления\PresentationLayer\PresentationLayer\obj\x86\Debug\App.g.cs
+D:\CBS_LESSONS\Architecture OOP\CBS_Architecture_Lessons\CBS_Architecture_Lessons\003 Проектирование слоя представления\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer_MarkupCompile.cache
+D:\CBS_LESSONS\Architecture OOP\CBS_Architecture_Lessons\CBS_Architecture_Lessons\003 Проектирование слоя представления\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.g.resources
+D:\CBS_LESSONS\Architecture OOP\CBS_Architecture_Lessons\CBS_Architecture_Lessons\003 Проектирование слоя представления\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.Properties.Resources.resources
+D:\CBS_LESSONS\Architecture OOP\CBS_Architecture_Lessons\CBS_Architecture_Lessons\003 Проектирование слоя представления\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+D:\CBS_LESSONS\Architecture OOP\CBS_Architecture_Lessons\CBS_Architecture_Lessons\003 Проектирование слоя представления\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.csproj.GenerateResource.Cache
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.exe
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.pdb
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\obj\x86\Debug\MainWindow.baml
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\obj\x86\Debug\UIComponents\CalcControl.baml
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\obj\x86\Debug\MainWindow.g.cs
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\obj\x86\Debug\UIComponents\CalcControl.g.cs
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\obj\x86\Debug\App.g.cs
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer_MarkupCompile.cache
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.g.resources
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.Properties.Resources.resources
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.csproj.GenerateResource.Cache
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ARCH WEBINAR\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.exe
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.pdb
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\obj\x86\Debug\UIComponents\CalcControl.baml
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\obj\x86\Debug\UIComponents\CalcControl.g.cs
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\obj\x86\Debug\App.g.cs
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\obj\x86\Debug\MainWindow.baml
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.g.resources
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\PresentationLayer\PresentationLayer\obj\x86\Debug\PresentationLayer.csproj.GenerateResource.Cache

@@ -1,0 +1,44 @@
+﻿<UserControl x:Class="PresentationLayer.UIComponents.CalcControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="40" d:DesignWidth="300">
+    <Grid>
+        <!--Определение строк таблицы-->
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <!--Определение столбцов таблицы-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <!--Поле ввода, которае привязывается к свойству Arg1 определенное в DataContext, который создается в классе окна содержащего данный UserControl-->
+        <TextBox Grid.Column="0" 
+                 Text="{Binding Arg1, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        
+        <TextBlock Grid.Column="1" 
+                   HorizontalAlignment="Center">+</TextBlock>
+        
+        <TextBox Grid.Column="2" 
+                 Text="{Binding Arg2, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        
+        <TextBlock Grid.Column="3" 
+                   HorizontalAlignment="Center">=</TextBlock>
+        
+        <TextBlock Grid.Column="4" 
+                   Text="{Binding Result}"></TextBlock>
+        
+        <Button Grid.Row="1" 
+                Grid.ColumnSpan="5" 
+                Margin="0 3 0 0" 
+                Command="{Binding GetResult}">Get Sum</Button>
+    </Grid>
+</UserControl>

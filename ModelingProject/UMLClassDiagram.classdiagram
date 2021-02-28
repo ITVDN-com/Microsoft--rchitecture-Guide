@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="6610d42c-89d7-429a-b644-7093a0910ccc" name="UMLClassDiagram" linkedPackageId="c4614a6c-1243-465a-bed5-b4c33c548c9b" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <packagedElements>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="ee953f6f-ffc3-4c90-8c8f-425cea34ee28" name="PresentationLayer">
+        <elementDefinition Id="8479468d-ef16-4baa-ad55-e1a676a10ae8" />
+        <packagedElements>
+          <packageHasNamedElement>
+            <package Id="719afbb0-3891-4a9f-9fee-8722276acd21" name="UIComponents">
+              <elementDefinition Id="9678616e-d41f-470c-9faf-d37beda34c9f" />
+              <packagedElements>
+                <packageHasNamedElement>
+                  <class Id="083bf2ea-74c4-46ff-a1bf-14b5f605812b" name="CalcControl" isAbstract="false" isLeaf="false" isActiveClass="false">
+                    <elementDefinition Id="9ee032ce-ac91-47ba-ad2f-8c5deea929d5" />
+                    <targetEnds>
+                      <association Id="1db4890f-d2a2-4299-abd8-bc144f87f477" isDerived="false" sourceEndRoleName="" targetEndRoleName="" isLeaf="false" isAbstract="false">
+                        <classMoniker Id="dbb541a5-825c-4b7b-af0b-21026ff62a01" LastKnownName="CalcViewModel" />
+                        <relationshipOwnedElementsInternal>
+                          <associationHasOwnedEnds>
+                            <memberEnd Id="be01c91f-8cd4-4054-b3a1-ea927ad4a0cf" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                              <elementDefinition Id="7b3d5233-3555-4f50-82cf-52ddb25a9147" />
+                            </memberEnd>
+                          </associationHasOwnedEnds>
+                          <associationHasOwnedEnds>
+                            <memberEnd Id="e451f3ae-1dcb-4a15-8cb6-ff42c5ddf397" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                              <elementDefinition Id="28aeee61-b06c-4156-a217-e0d1cac773dc" />
+                            </memberEnd>
+                          </associationHasOwnedEnds>
+                        </relationshipOwnedElementsInternal>
+                        <elementDefinition Id="ad2ffa7f-c3d6-4215-8243-ff9ca1d41506" />
+                      </association>
+                    </targetEnds>
+                  </class>
+                </packageHasNamedElement>
+              </packagedElements>
+            </package>
+          </packageHasNamedElement>
+          <packageHasNamedElement>
+            <package Id="31eff6ab-2303-4e7c-8315-a45eff7e8a22" name="UIProcessComponents">
+              <elementDefinition Id="bbe33177-74c4-4bfa-a30e-0ca1d92f27a5" />
+              <packagedElements>
+                <packageHasNamedElement>
+                  <class Id="dbb541a5-825c-4b7b-af0b-21026ff62a01" name="CalcViewModel" isAbstract="false" isLeaf="false" isActiveClass="false">
+                    <elementDefinition Id="756da825-c8fd-49b4-9c3a-d45c54ae5ff4" />
+                    <generalsInternal>
+                      <generalization Id="6fb2fd69-9a02-43ed-bc5c-ad66d0f46606" isSubstitutable="false">
+                        <classMoniker Id="faf9c0f6-9877-4b9e-b779-0d31ecfda6ea" LastKnownName="ViewModelBase" />
+                        <elementDefinition Id="d057915d-c25a-436d-9a64-a6c7b4cb657d" />
+                      </generalization>
+                    </generalsInternal>
+                    <targetEnds>
+                      <association Id="cab9afcc-5087-4bef-ab16-864774c24df5" isDerived="false" sourceEndRoleName="" targetEndRoleName="" isLeaf="false" isAbstract="false">
+                        <classMoniker Id="55721872-00b5-48a6-9079-bd217c332368" LastKnownName="RelayCommand" />
+                        <relationshipOwnedElementsInternal>
+                          <associationHasOwnedEnds>
+                            <memberEnd Id="697494d8-85fe-4252-a09d-576703ddd4d3" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                              <elementDefinition Id="8a94bb39-7c05-4dfd-a563-692fbe50efcf" />
+                            </memberEnd>
+                          </associationHasOwnedEnds>
+                          <associationHasOwnedEnds>
+                            <memberEnd Id="01f58ec9-a446-4f6b-846c-984bfc9b85f8" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                              <lowerValueInternal>
+                                <literalString Id="72fc58e7-9b94-4665-9595-98a53f06323f" name="Lower" value="*">
+                                  <elementDefinition Id="de8ef538-1e76-4f17-8ec9-2336a2b78212" />
+                                </literalString>
+                              </lowerValueInternal>
+                              <upperValueInternal>
+                                <literalString Id="9e729d28-b8e9-431b-b3b0-51d494b53ded" name="Upper" value="*">
+                                  <elementDefinition Id="82331874-c92f-48b0-b4be-0881ad7a0df0" />
+                                </literalString>
+                              </upperValueInternal>
+                              <elementDefinition Id="493acc04-b51f-4fc3-bfe0-d181c129a257" />
+                            </memberEnd>
+                          </associationHasOwnedEnds>
+                        </relationshipOwnedElementsInternal>
+                        <elementDefinition Id="504359d5-7549-417e-9a7d-b31f541aafb3" />
+                      </association>
+                    </targetEnds>
+                  </class>
+                </packageHasNamedElement>
+                <packageHasNamedElement>
+                  <class Id="faf9c0f6-9877-4b9e-b779-0d31ecfda6ea" name="ViewModelBase" isAbstract="false" isLeaf="false" isActiveClass="false">
+                    <elementDefinition Id="884f3d18-4438-4726-bd3c-b23bb90acd88" />
+                  </class>
+                </packageHasNamedElement>
+                <packageHasNamedElement>
+                  <class Id="55721872-00b5-48a6-9079-bd217c332368" name="RelayCommand" isAbstract="false" isLeaf="false" isActiveClass="false">
+                    <elementDefinition Id="01cf4782-ccec-4d14-9aae-a160da209844" />
+                  </class>
+                </packageHasNamedElement>
+              </packagedElements>
+            </package>
+          </packageHasNamedElement>
+        </packagedElements>
+      </package>
+    </logicalClassDesignerModelHasPackages>
+  </packagedElements>
+  <package Id="c4614a6c-1243-465a-bed5-b4c33c548c9b" name="ModelingProject">
+    <elementDefinition Id="aacd8ae4-1fec-4ee8-8b9b-b9090fb904e3" />
+    <profileInstances>
+      <packageHasProfileInstances Id="e0b3de57-e021-4f91-8cf1-c39f98baabb6">
+        <profileInstance Id="cc02df2f-6778-48bc-adae-757523527e0d" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="b639c2fb-d53f-4c8c-8b91-b9a8e009db87">
+        <profileInstance Id="ee7f283d-2547-48a0-bc76-efad9f4adb46" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</logicalClassDesignerModel>
